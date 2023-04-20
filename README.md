@@ -1,8 +1,8 @@
 <h2 align="center"><a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>Hello! I'm Hitoshi.</h2>
 
 ![](https://komarev.com/ghpvc/?username=hitoshi44)
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/mikkame/posts.svg)](http://qiita.com/hitoshi44)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/mikkame/contributions.svg)](http://qiita.com/hitoshi44)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/hitoshi44/posts.svg)](http://qiita.com/hitoshi44)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/hitoshi44/contributions.svg)](http://qiita.com/hitoshi44)
 
 I'm a junior developer specializing in backend development (also a little in vanila-JS, browser works).
 
