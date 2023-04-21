@@ -4,7 +4,7 @@
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/hitoshi44/contributions.svg)](http://qiita.com/hitoshi44)
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/hitoshi44/posts.svg)](http://qiita.com/hitoshi44)
 
-I'm a junior developer specializing in backend development (also a little in vanila-JS, browser works).
+I'm a junior developer specializing in backend development (also a little in vanila-JS, browser works, Machine Learning).
 
 I have worked on developing microservices for payment platforms and AI assistant web apps using LLM. I'm eager to learn a lot on the job and enjoy studying mathematics during my free time as a hobby.
 
