@@ -1,3 +1,9 @@
+<script src="./yourhost/platonicsvg.js" type="text/javascript" charset="utf-8" async defer></script>
+
+<div>
+  <platonic-svg></platonic-svg>
+</div>
+
 <h2 align="center"><a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>Hello! I'm Hitoshi.</h2>
 
 [![](https://komarev.com/ghpvc/?username=hitoshi44)](https://github.com/antonkomarev/github-profile-views-counter)
