@@ -17,5 +17,5 @@ I have worked on developing microservices for payment platforms and AI assistant
 [![My Language Skills](https://skillicons.dev/icons?i=go,python,js,bash)](https://skillicons.dev)
 #### My Other Skills
 [![My Other Skills](https://skillicons.dev/icons?i=linux,git,docker,kubernetes,,mysql,nginx,nodejs,aws)](https://skillicons.dev)
-#### Skills on learning
-[![My Skills not on Job](https://skillicons.dev/icons?i=rust,nim,c,sqlite)](https://skillicons.dev)
+#### Skills not on Job yet
+[![My Skills not on Job](https://skillicons.dev/icons?i=rust,nim,c)](https://skillicons.dev)
