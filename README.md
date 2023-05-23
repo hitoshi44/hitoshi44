@@ -10,7 +10,7 @@ I have worked on developing microservices for payment platforms and AI assistant
 
 - 🔭 I’m currently working on friendly AI assistant app based on LLM.
 - 🌱 I’m currently learning Python, Go, Software Architecture.
-- 📫 How to reach me: mail to `"@".join( ["hrmhts0404", "gmail.com"] )`, or DM to my [Twitter](https://twitter.com/hitoshi404).
+- 📫 How to reach me: mail to `"@".join( ["hrmhts0404", "gmail.com"] )`.
 - ⚡ Fun fact: Packet travel halfway around Earth: 50ms! ( feel slow? )
 
 #### My Language Skills
